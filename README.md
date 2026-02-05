@@ -44,3 +44,11 @@ The latest version is available in the **Releases** section.
 
 ![Augmented-Reality-App-Android-Todor-Vankov_04-1536x922](https://github.com/user-attachments/assets/a3e71ccd-e6ba-4646-ba53-581e797c29fd)
 
+
+### Author
+
+**Created by Todor Vankov**
+🌐 [https://todorvankov.com](https://todorvankov.com)
+
+
+
